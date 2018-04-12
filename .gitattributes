@@ -1,1 +1,9 @@
-android/*
+android/app/src/dev/java/host/exp/exponent/BuildVariantConstants.java
+android/app/src/dev19/java/host/exp/exponent/BuildVariantConstants.java
+android/app/src/devRemoteKernel/java/host/exp/exponent/BuildVariantConstants.java
+android/app/src/prod/java/host/exp/exponent/BuildVariantConstants.java
+android/app/src/main/java/host/exp/exponent/MainActivity.java
+android/app/src/main/java/host/exp/exponent/generated/AppConstants.java
+android/app/src/main/java/host/exp/exponent/generated/DetachBuildConstants.java
+android/app/src/main/java/host/exp/exponent/MainApplication.java
+
