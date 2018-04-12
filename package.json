@@ -25,6 +25,6 @@
     "appcenter-push": "^1.4.0",
     "expo": "^26.0.0",
     "react": "16.3.0-alpha.1",
-    "react-native": "0.54.0"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz"
   }
 }

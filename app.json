@@ -1,5 +1,16 @@
 {
   "expo": {
-    "sdkVersion": "26.0.0"
+    "sdkVersion": "26.0.0",
+    "name": "rn-navigation",
+    "slug": "rn-navigation",
+    "version": "0.1.0",
+    "isDetached": true,
+    "detach": {
+      "scheme": "expb25451127deb468bbecd57755feb575f",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.4.0-sdk26.0.0-e63d9209-070c-4118-b06b-c60e82da0b66.tar.gz"
+    },
+    "android": {
+      "package": "tmp"
+    }
   }
 }
